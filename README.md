@@ -7,7 +7,8 @@ The project focuses on **real-world workflow design**, **state management**, and
 
 
 
-<img width="1920" height="1080" alt="Screenshot (373)" src="https://github.com/user-attachments/assets/f97739cb-8044-46c9-a7a6-c1363c06bee8" />
+<img width="1111" height="165" alt="image" src="https://github.com/user-attachments/assets/7df88958-cd27-4b23-8927-95542b84ef62" />
+
 
 
 

@@ -6,6 +6,11 @@ The project focuses on **real-world workflow design**, **state management**, and
 ![WhatsApp Image 2026-01-20 at 10 58 30 PM](https://github.com/user-attachments/assets/ae18dd17-9db5-4a6c-8588-d706267dbfbb)
 
 
+
+<img width="1920" height="1080" alt="Screenshot (373)" src="https://github.com/user-attachments/assets/f97739cb-8044-46c9-a7a6-c1363c06bee8" />
+
+
+
 ---
 
 ## 🧠 Overview

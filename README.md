@@ -3,6 +3,9 @@
 A full-stack booking system that demonstrates the **end-to-end booking lifecycle** for an on-demand home services marketplace.  
 The project focuses on **real-world workflow design**, **state management**, and **clear system behavior**, rather than over-engineering.
 
+![WhatsApp Image 2026-01-20 at 10 58 30 PM](https://github.com/user-attachments/assets/ae18dd17-9db5-4a6c-8588-d706267dbfbb)
+
+
 ---
 
 ## 🧠 Overview

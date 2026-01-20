@@ -122,7 +122,5 @@ This project was built as part of the Full Stack Engineering Intern Assignment.
 
 Aman Singh
 
----
 
-## 🔄 Booking Lifecycle
 
